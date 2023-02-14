@@ -1,0 +1,37 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+/*! For license information please see navigation.8d4fe2843fa40a4b0a47.app.js.LICENSE */
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[66],{1309:function(e,n,l){"use strict";l.r(n);var t=l(0),o=l(17),r=l(507),c=l(520),a=l(13),i=l(29),_=l(45),u=l(519),E=l(148),p=l(191),s=l(512),m=new i.ApolloClient({cache:new i.InMemoryCache({possibleTypes:r.possibleTypes}).restore(window.__PRELOADED_NAV_STATE__),defaultOptions:{query:{fetchPolicy:"cache-only",errorPolicy:"ignore"}}}),A=function(e){var n=e.apolloClient;return(t.createElement(i.ApolloProvider,{client:n},t.createElement(_.b,null,t.createElement(E.b,null,t.createElement(p.a,null,t.createElement(u.a,null),t.createElement(s.a,null),t.createElement(c.a,null))))))};Object(a.b)((function(){Object(o.hydrate)(t.createElement(A,{apolloClient:m}),document.getElementById("app-navigation"))}))},184:function(e,n){e.exports=void 0}},[[1309,3,2,0]]]);
+
+}
+/*
+     FILE ARCHIVED ON 04:59:43 Nov 01, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:37:33 Feb 14, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 121.776
+  exclusion.robots: 0.107
+  exclusion.robots.policy: 0.097
+  cdx.remote: 0.079
+  esindex: 0.01
+  LoadShardBlock: 96.016 (3)
+  PetaboxLoader3.datanode: 112.699 (4)
+  CDXLines.iter: 15.093 (3)
+  load_resource: 155.971
+  PetaboxLoader3.resolve: 131.114
+*/
